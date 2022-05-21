@@ -1,0 +1,5 @@
+test_run_dir/
+target/
+project/
+.metals/
+.DS_Store
